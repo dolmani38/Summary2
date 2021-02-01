@@ -1,2 +1,7 @@
 Text Generation - Natural Language Processing
 https://paperswithcode.com/task/text-generation
+
+
+Adversarial Text Generation via Feature-Mover’s Distance => GAN Train의 다른 기법으로 적용 가능 할 것!
+https://papers.nips.cc/paper/2018/file/074177d3eb6371e32c16c55a3b8f706b-Paper.pdf
+

@@ -12,4 +12,7 @@ https://papers.nips.cc/paper/2018/file/074177d3eb6371e32c16c55a3b8f706b-Paper.pd
 Text generation에 대한 모든것이 여기 다 있음!!!!!!!!
 https://github.com/RUCAIBox/TextBox
 
+Text generation의 evaluation BLEU
+https://machinelearningmastery.com/calculate-bleu-score-for-text-python/
+
 

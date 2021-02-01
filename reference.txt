@@ -9,7 +9,7 @@ https://papers.nips.cc/paper/2018/file/074177d3eb6371e32c16c55a3b8f706b-Paper.pd
 2. Earth Mover distance
 3. Feature Mover distance
 
-Text generation에 대한 모든것이 여기 다 있음!!!!!!!!
+Text generation에 대한 모든것이 여기 다 있음!!!!!!!! -> 관련 논문도 다 링크되어 있음 !!!1 논문 쓰기에도 아주 좋음!!!!
 https://github.com/RUCAIBox/TextBox
 
 Text generation의 evaluation BLEU

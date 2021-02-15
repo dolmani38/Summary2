@@ -18,3 +18,6 @@ https://machinelearningmastery.com/calculate-bleu-score-for-text-python/
 
 Sequence to Sequence (seq2seq) and Attention
 https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html
+
+Tutorial 
+https://github.com/bentrevett/pytorch-seq2seq

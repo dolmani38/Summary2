@@ -21,3 +21,27 @@ https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html
 
 Tutorial 
 https://github.com/bentrevett/pytorch-seq2seq
+
+
+세미나 대상
+
+2/27
+1. LSTM 기반 Text Generator (안)
+https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
+-> 40분
+2. 일단 GAN : https://arxiv.org/pdf/1406.2661.pdf (이)
+-> 40분
+3. 우리논문 본문1 (이)
+-> 40분
+
+3/6
+4. GAN for text-generator (이)
+   SeqGAN:https://arxiv.org/pdf/1609.05473.pdf
+   LeakGAN : https://arxiv.org/pdf/1709.08624v2.pdf
+5. Attention Is All You Need : https://arxiv.org/pdf/1706.03762.pdf (안)
+   참고 : https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html
+   참고 : https://github.com/bentrevett/pytorch-seq2seq
+6. 우리논문 본문2 (이)
+
+
+

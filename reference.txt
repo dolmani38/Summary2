@@ -15,6 +15,7 @@ https://github.com/RUCAIBox/TextBox
 Text generation의 evaluation BLEU
 https://machinelearningmastery.com/calculate-bleu-score-for-text-python/
 
+http://nlpprogress.com/english/summarization.html  <________________________
 
 Sequence to Sequence (seq2seq) and Attention
 https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html
